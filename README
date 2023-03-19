@@ -1,4 +1,4 @@
-Arquivos referentes ao processo de seleção para o projeto PBAD/LabSEC. A base
+Arquivos referentes ao processo de seleção para o projeto. A base
 de código está em formato Maven, e portanto, a execução de
 
     mvn package
